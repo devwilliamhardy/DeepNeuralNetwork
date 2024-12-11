@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devwi\\Documents\\GitHub\\DeepNeuralNetwork\\DeepNeuralNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F709CE0-DCFB-4EDE-83C7-14F4625EB5CA}|DeepNeuralNetwork\\DeepNeuralNetwork.vcxproj|C:\\Users\\devwi\\Documents\\GitHub\\DeepNeuralNetwork\\DeepNeuralNetwork\\DeepNeuralNetwork\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F709CE0-DCFB-4EDE-83C7-14F4625EB5CA}|DeepNeuralNetwork\\DeepNeuralNetwork.vcxproj|solutionrelative:DeepNeuralNetwork\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\devwi\\Documents\\GitHub\\DeepNeuralNetwork\\DeepNeuralNetwork\\DeepNeuralNetwork\\main.cpp",
+              "RelativeDocumentMoniker": "DeepNeuralNetwork\\main.cpp",
+              "ToolTip": "C:\\Users\\devwi\\Documents\\GitHub\\DeepNeuralNetwork\\DeepNeuralNetwork\\DeepNeuralNetwork\\main.cpp",
+              "RelativeToolTip": "DeepNeuralNetwork\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T13:53:55.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
